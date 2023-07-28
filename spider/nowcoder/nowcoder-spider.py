@@ -17,40 +17,9 @@ chrome_options = Options()
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--disable-gpu")
 
-# def getpagelist():
-#     lst = []
-#     driverg = webdriver.Chrome()
-#     for webpage in range(1, 6):
-#         time.sleep(1)
-#         url_lst = f"https://ac.nowcoder.com/acm/problem/list?page={webpage}"
-#         driverg.get(url_lst)
-#         fapage = driverg.find_element_by_class_name('no-border')
-#         # print('找到父网页')
-#         sopage = fapage.find_elements_by_css_selector("tr")
-#         # print('找到子网页')
-#         for page in sopage:
-#             lst.append(page.get_attribute('data-problemid'))
-#         time.sleep(5)
-#         # print('网页{}成功爬取'.format(webpage))
-#     lst = [x for x in lst if x is not None]
-#     driverg.quit()
-#     with open("C:/Users/Administrator/Desktop/shixun/pagelist.txt",'w') as file:
-#         for item in lst:
-#             file.write("%s\n" % item)
-
-
-
-#
-# if not os.path.exists("C:/Users/Administrator/Desktop/shixun/pagelist.txt"):
-#     getpagelist()
-#
-# f=open("C:/Users/Administrator/Desktop/shixun/pagelist.txt",encoding='gbk')
-# for line in f:
-
-# problemId = int(line)
-
-username = '13804204446'
-password = '*math13804204446'
+# 将username和password替换为自己的牛客网账号
+username = ''
+password = ''
 sleep_time = random.random() * 0.5 + 1
 save_path = 'D:\\Workspace\\PycharmProjects\\Code-pre\\crawler\\bmm_crawler\\code\\nowcoder_spider\\'
 
@@ -241,7 +210,7 @@ def analysis():
 
 # 执行程序
 driver = webdriver.Chrome()
-url = "https://ac.nowcoder.com/acm/problem/list?page=2"
+url = "https://ac.nowcoder.com/acm/problem/list?page=1"
 # 进入题目总界面不需要登录
 driver.get(url)
 time.sleep(sleep_time)
@@ -254,7 +223,7 @@ page_update(driver)
 # 读取题目需要手动登录，有反爬机制
 login()
 
-for i in range(2, 216):
+for i in range(1, 216):
     # 获取问题ID列表
     problemIdlist = problem_page()
     # 题目主界面句柄
