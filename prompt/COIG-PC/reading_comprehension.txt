@@ -1,0 +1,256 @@
+00006-001-000-conversations_based_on_scene.jsonl
+00006-002-000-theme_abstract.jsonl
+00025-000-000-information retrieval.jsonl
+00025-001-000-information retrieval.jsonl
+00034-001-000-question_and_answer.jsonl
+00034-002-000-question_and_answer.jsonl
+00043-000-000-machine-reading-comprehension.jsonl
+00046-001-000-medical_question_and_answer.jsonl
+00047-000-000-nlu_dialogue_qa.jsonl
+00047-000-001-nlu_qa.jsonl
+00049-000-000-conversation.jsonl
+00049-001-000-conversation.jsonl
+00049-002-000-conversation.jsonl
+00053-000-000-nlu_yesno_answer.jsonl
+00056-000-000-knowledge_augmented_chat.jsonl
+00057-000-000-nlu_generate_question.jsonl
+00057-000-001-nlu_qa.jsonl
+00058-000-000-userinfo_augmented_chat.jsonl
+00059-000-000-dialogue-response-generation.jsonl
+00079-001-000-fill_blank_cmrc2019.jsonl
+00079-002-000-order_choice_cmrc2019.jsonl
+00085-000-002-chinese_sentence_rewriting.jsonl
+00087-000-000-news_summary_generation.jsonl
+00087-000-001-news_content_expansion.jsonl
+00097-000-000-Reading Comprehension.jsonl
+00097-001-000-Reading Comprehension.jsonl
+00159-000-000-QA_Chinese_Med_WeChat.jsonl
+00179-002-000-named_entity_recognition.jsonl
+00179-003-000-named_entity_recognition.jsonl
+00191-000-000-conversation.jsonl
+00191-001-000-conversation.jsonl
+00195-000-000-make_news_title.jsonl
+00195-000-001-answer_wiki_question.jsonl
+00221-000-000-product_description_generation.jsonl
+00221-000-001-product_headline_generation.jsonl
+00222-001-000-info_extraction.jsonl
+00229-001-000-determine chief_complaint from description.jsonl
+00229-001-001-determine lcd_name from description.jsonl
+00229-002-000-determine disease name from definition.jsonl
+00234-000-000-summarization.jsonl
+00234-000-001-news_continuation.jsonl
+00235-000-000-summarize an article.jsonl
+00246-000-000-cs_text_summerization.jsonl
+00250-000-000-sentiment_analysis.jsonl
+00260-000-000-sequence_labeling_for_ner.jsonl
+00263-001-000-Answer questions based on a given text..jsonl
+00263-002-000-Answer questions based on a given text..jsonl
+00263-003-000-Answer questions based on a given text..jsonl
+00263-004-000-Answer questions based on a given text..jsonl
+00263-005-000-Answer questions based on a given text..jsonl
+00263-006-000-Answer questions based on a given text..jsonl
+00263-007-000-Answer questions based on a given text..jsonl
+00263-008-000-Answer questions based on a given text..jsonl
+00263-009-000-Medical category recognition..jsonl
+00263-017-000-Summarize the description of the text..jsonl
+00263-018-000-Summarize the description of the text..jsonl
+00263-019-000-Summarize the description of the text..jsonl
+00263-020-000-Summarize the description of the text..jsonl
+00263-021-000-Summarize the description of the text..jsonl
+00263-022-000-Summarize the description of the text..jsonl
+00263-023-000-Summarize the description of the text..jsonl
+00263-024-000-Summarize the description of the text..jsonl
+00263-025-000-Extract keywords from the text description..jsonl
+00263-028-000-Determine the intent based on the text description..jsonl
+00264-000-000-Infer the content mentioned in the text based on the text itself..jsonl
+00273-000-000-story_continuation.jsonl
+00278-001-000-title_by_info.jsonl
+00278-001-001-verify_rumor.jsonl
+00278-001-002-rumor_by_title.jsonl
+00278-002-000-reply_to_post.jsonl
+00284-001-000-read_comprehension.jsonl
+00284-002-001-title_generation.jsonl
+00284-003-000-semantic_similarity.jsonl
+00284-003-001-text_generation.jsonl
+00285-000-000-read_comprehension.jsonl
+00289-000-000-text_continuation.jsonl
+00299-000-000-Analyze texts related to Traditional Chinese Medicine (TCM) and answer questions based on the text..jsonl
+00304-001-002-next lyrics generation.jsonl
+00304-001-003-previous lyrics generation.jsonl
+00304-002-000-answer the crime name from description.jsonl
+00304-003-000-answer the question about crime.jsonl
+00304-003-001-answer the crime category from the question.jsonl
+00304-004-000-answer the name of disease according to description.jsonl
+00314-000-000-file_name_prediction.jsonl
+00314-000-001-text_generation.jsonl
+00326-000-000-rumor_generation.jsonl
+00333-001-000-question answering.jsonl
+00346-000-000-Answer questions according to some context.jsonl
+00346-000-001-generate json file to save entity and its category.jsonl
+00348-009-000-poetry_continuation.jsonl
+00358-000-000-news_title_generation.jsonl
+00359-000-001-idiom_generation.jsonl
+00363-000-000-Determine the category of a news article based on its headline and summary..jsonl
+00368-000-000-Classify a text..jsonl
+00371-000-001-allusion_to_word_generation.jsonl
+00377-001-000-Determine the defendant in a case based on the legal circumstances..jsonl
+00377-002-000-Summarize the case based on the content of the legal paragraphs..jsonl
+00377-003-000- Determine the names of the elements of the case based on the content of the legal paragraphs..jsonl
+00378-001-000-Provide the second line of a couplet based on the first line..jsonl
+00378-002-000-Provide the first line of a couplet based on the second line..jsonl
+00379-000-000-fill_in_the_blank.jsonl
+00379-000-001-fill_in_the_beginning.jsonl
+00380-000-000-qa.jsonl
+00391-001-000-Describe the intent of the text..jsonl
+00391-002-000-Describe the content mentioned in the text..jsonl
+00406-001-000-article_headline_generation.jsonl
+00406-002-000-key_word_generating.jsonl
+00408-000-001-chinese_sentence_rewriting.jsonl
+00410-000-002-chinese_sentence_rewriting.jsonl
+00419-001-000-medical_questions_and_answers.jsonl
+00427-001-000-legal_case_classification.jsonl
+00427-002-000-legal_case_abstract_generation.jsonl
+00427-004-000-legal_knowledge_question_answering.jsonl
+00427-005-000-legal_knowledge_question_answering.jsonl
+00428-000-000-expected_salary_prediction.jsonl
+00430-001-000-chinese_instruct_data.jsonl
+00445-001-000-humor_classification.jsonl
+00452-000-000-news_topic_classification.jsonl
+00463-000-000-dialogue_with_chatbot.jsonl
+00487-001-000-reading_comprehension.jsonl
+00487-001-001-question_generation.jsonl
+00487-001-003-span_detection_and_special_output_formatting.jsonl
+00487-002-000-question_rephrasing.jsonl
+00487-002-001-reading_comprehension.jsonl
+00487-002-002-question_generation.jsonl
+00487-002-003-span_detection.jsonl
+00487-002-004-span_detection_with_special_formatting.jsonl
+00487-003-000-reading_comprehension_with_requirement.jsonl
+00487-003-001-reading_comprehension.jsonl
+00487-003-002-question_generation.jsonl
+00487-003-004-span_detection_with_special_formatting.jsonl
+00491-001-000-poet_questions_and_answers_about_title.jsonl
+00491-002-000-poet_questions_and_answers_about_author.jsonl
+00491-003-000-poet_questions_and_answers_about_dynasty.jsonl
+00491-004-000-poet_generate.jsonl
+00491-005-000-poet_generate_pre.jsonl
+00491-006-000-poet_generate_title.jsonl
+00516-000-000-reading_comprehension.jsonl
+00516-000-001-reading_comprehension_with_unanswerable_questions.jsonl
+00516-000-002-question_generation_based_on_answers.jsonl
+00516-000-003-span_detection.jsonl
+00516-000-004-span_detection_and_qustion_answering_with_special_formatting.jsonl
+00523-000-000-chinese_sentence_rewriting.jsonl
+00526-001-000-explain_idiom.jsonl
+00526-002-000-write_idiom.jsonl
+00597-000-000-product_description_generation.jsonl
+00599-000-000-chinese_poetry_collection.jsonl
+00610-000-000-summarization.jsonl
+00612-000-000-intent_classification.jsonl
+00613-000-001-event_abstract_generation.jsonl
+00620-000-000-Conversations.jsonl
+00620-001-000-Conversations.jsonl
+00621-000-000-Questiong Answering.jsonl
+00621-000-001-Json file generator.jsonl
+00624-000-001-chinese_sentence_rewriting.jsonl
+00628-001-000-news_abstract.jsonl
+00635-000-000-reading_comprehension_extracting_firstline_of_span.jsonl
+00635-000-001-reading_comprehension_extracting_lastline_of_span.jsonl
+00635-000-002-reading_comprehension_extracting_starttime_of_span.jsonl
+00635-000-003-reading_comprehension_extracting_endtime_of_span.jsonl
+00674-000-000-Chinese_text2sql_generation.jsonl
+00704-000-000-news_headline_generation.jsonl
+00708-000-000-news_headline_generation.jsonl
+00708-000-001-news_content_expansion.jsonl
+00721-000-000-mental_problem_identification.jsonl
+00721-000-001-reading_comprehension_and_comment_generation.jsonl
+00729-000-000-title generation.jsonl
+00734-000-000-song_title_generation.jsonl
+00734-000-001-song_lyrics_generation.jsonl
+00753-001-000-answer next sentence in a poem.jsonl
+00753-001-001-answer previous sentence in a poem.jsonl
+00753-001-002-answer next half sentence in a poem.jsonl
+00753-001-003-answer previous half sentence in a poem.jsonl
+00753-002-000-poem to tag.jsonl
+00754-000-000-novel_continuation.jsonl
+00769-001-000-chinese_news_question_answering.jsonl
+00772-001-000-chinese_news_summarization.jsonl
+00772-001-001-chinese_news_title_summarization.jsonl
+00772-001-004-chinese_bbc_news_searching_by_title.jsonl
+00772-002-000-chinese_news_summarization.jsonl
+00772-002-001-chinese_news_title_summarization.jsonl
+00772-002-004-chinese_bbc_news_searching_by_title.jsonl
+00781-003-000-cross-language summarization.jsonl
+00818-000-000-reading_comprehension.jsonl
+00829-001-000-summarization and match.jsonl
+00833-000-000-cooking_question_answering.jsonl
+00840-000-000-advertisement_generation.jsonl
+00878-000-000-background_knowledge_question_answering.jsonl
+00904-000-000-news_headline_generation.jsonl
+00981-000-000-specialty2name.jsonl
+00981-000-001-name2specialty.jsonl
+00999-005-002-chinese_poem_appreciation.jsonl
+01104-000-000-medical_dialogue.jsonl
+01112-000-000-dialogue.jsonl
+01236-000-000-Paraphrase_sentence.jsonl
+01268-000-000-summarization.jsonl
+01283-004-002-similar_text_generation.jsonl
+01283-004-003-similar_text_reverse_generation.jsonl
+01283-005-001-similar_text_generation.jsonl
+01283-005-002-similar_text_reverse_generation.jsonl
+01283-007-000-reading_comprehension_span_extraction.jsonl
+01283-008-000-bioes_named_entity_recognition.jsonl
+01283-009-000-bioes_named_entity_recognition.jsonl
+01349-000-000-paraphrase.jsonl
+01405-000-000-question_answering.jsonl
+01412-000-000-question_answering.jsonl
+01442-000-001-language_identification.jsonl
+01450-000-000-question_answering.jsonl
+01454-000-000-question_answerinc.jsonl
+01473-000-000-news_summarization.jsonl
+01480-001-000-analyze_joke.jsonl
+01480-001-002-gen_joke_by_punchline.jsonl
+01480-002-000-humorous_qa.jsonl
+01529-000-000-sum2title.jsonl
+01529-000-001-content2title.jsonl
+01529-000-002-content2sum.jsonl
+01529-000-003-title2sum.jsonl
+01529-000-004-title2content.jsonl
+01529-000-005-sum2content.jsonl
+01570-000-000-coarse.jsonl
+01570-000-001-fine.jsonl
+01600-000-000-reading comprehension.jsonl
+01600-000-001-reading and pose questions.jsonl
+01692-000-000-fill_in_the_blank_with_given_choices.jsonl
+01719-000-000-ld2dt.jsonl
+01719-000-001-ab2dt.jsonl
+01719-000-002-dt2ld.jsonl
+01719-000-003-dt2ab.jsonl
+01719-000-004-txt2ab.jsonl
+01719-000-005-txt2ld.jsonl
+01719-000-006-txt2dt.jsonl
+01719-000-007-ab2txt.jsonl
+01719-000-008-ld2txt.jsonl
+01719-000-009-dt2txt.jsonl
+01719-000-010-txt2pt.jsonl
+01719-000-011-pt2txt.jsonl
+01851-000-000-cloze_test.jsonl
+02103-003-001-zh_reading_comprehension_and_questioning.jsonl
+02103-004-000-similarity_matching.jsonl
+02103-004-001-similar_sentence_generation.jsonl
+02103-005-000-similarity_matching.jsonl
+02103-005-001-similar_sentence_generation.jsonl
+02103-006-001-zh_reading_comprehension_and_questioning.jsonl
+02103-008-000-text_abstracting.jsonl
+02145-001-001-zh_context_zh_question_zh_answer_reading_comprehension_and_questioning.jsonl
+02145-001-002-zh_context_zh_question_zh_answer_reading_comprehension_span_extraction_all.jsonl
+02145-002-006-zh_context_zh_question_ar_answer_reading_comprehension_span_extraction.jsonl
+02145-002-011-zh_context_zh_question_ar_answer_reading_comprehension_and_questioning.jsonl
+02386-008-002-zh_context_zh_question_zh_answer_reading_comprehension_span_extraction_all.jsonl
+02403-000-000-fill_in_the_blank.jsonl
+03024-000-000-summarize.jsonl
+03360-000-000-reading_comprehension_span_extraction.jsonl
+03360-000-001-reading_comprehension_and_questioning.jsonl
+03360-000-003-reading_comprehension_span_extraction_all.jsonl
+03502-000-001-medical_question_answering.jsonl
+03502-000-004-medical_category_classification_and_question_answering.jsonl
