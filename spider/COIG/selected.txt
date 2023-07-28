@@ -1,3 +1,0 @@
-exam_instructions.jsonl
-human_value_alignment_instructions_part2.jsonl
-leetcode_instructions.jsonl
